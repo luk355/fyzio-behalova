@@ -1,18 +1,20 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Vítejte v mém světě
+    text: fyzioterapie a léčebné rehabilitace
+    button: S čím vám mohu pomoci?
+    buttonlink: "#portfolio"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "O mně, Moje filozofie"
+    text: "Jsem veselá, optimistická, a pozitivní energii se snažím přenášet také na lidi ve svém okolí. Můj budoucí profesní i osobní život výrazně ovlivnily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde po světě, a kombinovala tak práci s cestováním. Zavedla mě tam moje dobrodružná a zvídavá povaha, která mi tak umožnila nahlédnout do světa cizích kultur a jejich praktik, včetně těch fyzioterapeutických. 
+    
+    Fascinuje mě plasticita dětského mozku, psychomotorický vývoj jedince a vývojová kineziologie podle Vojty. Zajímám se o viscerosomatiku a baví mě dry needling. Mimo práci miluji svobodu a četstvý vzduch s batohem na zádech v horách, tropický podvodní svět a novozélandský Sauvignon Blanc."
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Naslouchat"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Lidský přístup"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
@@ -20,42 +22,72 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Služby"
+    text: "Ve své praxi kombinuji důkladné vyšetření "
     section: portfolio
     closebutton: "Close Project"
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Vzdělání a kurzy" 
+    text: "a významné životní milníky"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Kurz Viscerální Manipulace"
+        year: "2020"
+        desc: "podle francouzského osteopata J.P.Baralla"
         image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        alt:
+      - title: "Aktivně v těhotenství"
+        year: "2020"
+        desc: "kurz Groofy vše o těhotenství určený pro fyzioterapeuty, lékaře a porodní asistentky"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "práce a život na Novém Zélandu"
+        year: "2016-2020"
+        desc: "manažer vyhlášeného Bodyhaven Spa ve Wellingtonu"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Pain Management Course for Professionals A, B, & Advanced Course"
+        year: "2018-2019"
+        desc: "třídílný rozsáhlý kurz suché jehly a tradičních čínských metod, Christchurch, New Zealand (Acupuncture of Ashi Points & TMM channels, Micro stimulation, Acupressure, Dry needling, Ear acupuncture)"
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Komplexní terapie ramene, Monada s r.o."
+        year: "2015"
+        desc: ""
+        image: assets/img/timeline/2.jpg
+        alt: 
+      - title: "Vojtova Reflexní Lokomoce, kurz A"
+        year: "2015"
+        desc: ""
+        image: assets/img/timeline/2.jpg
+        alt: 
+      - title: "Komplexní terapie krční páteře, Monada s r.o., Praha"
+        year: "2014"
+        desc: ""
+        image: assets/img/timeline/2.jpg
+        alt:  
+      - title: "Fyzio-fitness instruktor, Fitness Institut Tonus, Praha"
+        year: "2014"
+        desc: ""
+        image: assets/img/timeline/2.jpg
+        alt: 
+      - title: "Magisterské studium fyzioterapie"
+        year: "2013-2015"
+        desc: "Karlova Univerzita v Praze, 2. lékařská fakulta, udělen titul Mgr."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Bakalářské studium fyzioterapie"
+        year: "2010-2013"
+        desc: "Masarykova univerzita Brno, Fakulta sportovních studií, udělen titul Bc."
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "vášeň k pohybu a lidskému tělu"
 
 about:
     title: "About Us"
@@ -118,7 +150,7 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
+    title: "Kontak"
     text: "Lorem ipsum or call 123456789"
     section: contact
     
