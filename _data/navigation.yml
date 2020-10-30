@@ -1,18 +1,15 @@
 nav:
-  - title: "Services"
+  - title: "Moje fylozofie"
     section: services
 
-  - title: "Portfolio"
+  - title: "Služby"
     section: portfolio
     
-  - title: "About"
+  - title: "Vzdělání a kurzy"
     section: timeline
 
-  - title: "Team"
-    section: team
+  # - title: "Team"
+  #   section: team
 
-  - title: "Contact"
+  - title: "Kontakt"
     section: contact
-
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
