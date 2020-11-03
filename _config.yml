@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Fyzio Běhalová
 email      : info@fyziobehalova.cz #this is also the email contact forms will go to
-description: "Fyzioterapie v Brně"
+description: "Individuální fyzioterapie Brno se zaměřením na akutní i chronické poruchy pohybového aparátu, kontrolu psychomotorického vývoje kojenců a dětí a jejich terapii, a cvičení a fyzioterapii žen těhotných i po porodu. Mezi užívané metody terapie patří mimo jiné Dynamická neuromuskulární stabilizace podle prof. Koláře, terapie trigger pointů suchou jehlou, a viscerální manipulace."
 author     : Zuzana Běhalová
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

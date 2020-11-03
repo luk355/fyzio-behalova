@@ -8,8 +8,8 @@ nav:
   - title: "Vzdělání a kurzy"
     section: timeline
 
-  # - title: "Team"
-  #   section: team
+  - title: "Rezervace"
+    url: https://fyzio-behalova.reservio.com/
 
   - title: "Kontakt"
     section: contact
