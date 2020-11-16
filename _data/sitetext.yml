@@ -37,12 +37,14 @@ timeline:
     events:
       - title: "Kurz Viscerální Manipulace a kurz Aktivně v těhotenství"
         year: "2020"
-        desc: "kurz visceralní manipulace podle francouzského osteopata J.P.Baralla a kurz Groofy vše o těhotenství určený pro fyzioterapeuty, lékaře a porodní asistentky"
+        desc: "kurz visceralní manipulace podle francouzského osteopata J.P.Baralla a 
+        kurz Groofy vše o těhotenství určený pro fyzioterapeuty, lékaře a porodní asistentky"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "práce a život na Novém Zélandu"
         year: "2016-2020"
-        desc: "manažer vyhlášeného Bodyhaven Spa ve Wellingtonu"
+        desc: "práce jako manažer vyhlášeného Bodyhaven Spa ve Wellingtonu, 
+        prozkoumávání odlehlých koutů Nového Zélandu, Austrálie a Jihovýchodní Asie"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Pain Management Course for Professionals A, B, & Advanced Course"
@@ -50,7 +52,9 @@ timeline:
         desc: "třídílný rozsáhlý kurz suché jehly a tradičních čínských metod, Christchurch, New Zealand (Acupuncture of Ashi Points & TMM channels, Micro stimulation, Acupressure, Dry needling, Ear acupuncture)"
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Komplexní terapie ramene a Komplexní terapie krční páteře, Monada s r.o."
+      - title: "Komplexní terapie ramene a 
+      Komplexní terapie krční páteře, 
+      Monada s r.o."
         year: "2014, 2015"
         desc: ""
         image: assets/img/timeline/2.jpg
@@ -65,13 +69,14 @@ timeline:
         desc: ""
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Bakalářské a Navazující Magisterské studium fyzioterapie"
+      - title: "Magisterské a Bakalářské studium fyzioterapie"
         year: "2010-2015"
-        desc: "Masarykova univerzita Brno, Fakulta sportovních studií, udělen titul Bc., Karlova Univerzita v Praze, 2. lékařská fakulta, udělen titul Mgr."
+        desc: "Karlova Univerzita v Praze, 2. lékařská fakulta, udělen titul Mgr., 
+        Masarykova univerzita Brno, Fakulta sportovních studií, udělen titul Bc."
         image: assets/img/timeline/3.jpg
         alt: 
         # you can enforce the aligment
-        align: right
+        align: left
     end: "vášeň k pohybu a lidskému tělu"
 
 about:
