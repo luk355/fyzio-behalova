@@ -29,16 +29,16 @@ portfolio:
     
 
 timeline:
-    title: "Vzdělání a kurzy" 
+    title: "Vzdělání, kurzy" 
     text: "a významné životní milníky"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Kurz Viscerální Manipulace a kurz Aktivně v těhotenství"
+      - title: "Viscerální Manipulace, Aktivně v těhotenství"
         year: "2020"
-        desc: "kurz visceralní manipulace podle francouzského osteopata J.P.Baralla a 
-        kurz Groofy vše o těhotenství určený pro fyzioterapeuty, lékaře a porodní asistentky"
+        desc: "absolvovaný kurz visceralní manipulace podle francouzského osteopata J.P.Baralla a 
+        kurz Groofy Vše o těhotenství určený pro fyzioterapeuty, lékaře a porodní asistentky"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "práce a život na Novém Zélandu"
