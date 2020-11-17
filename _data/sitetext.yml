@@ -12,12 +12,12 @@ services:
     section: services
     list:
       - title: "Odhalit příčinu"
-        desc: "Práce fyzioterapeuta nápadně připomíná práci detektiva. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a nakonec se dobrat jejich pravé příciny. V tomto místě následně zahájit cílenou terapii."
+        desc: "Práce fyzioterapeuta nápadně připomíná práci detektiva. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a dobrat se jejich pravé příciny. V tomto místě následně zahájíme cílenou terapii."
       - title: "Naslouchat"
-        desc: "Aby byla terapie opravdu cílená a efektivní, a odhalení příčiny co nejrychlejší, není nic důležitějšího než aktivní naslouchámí a důkladný rozhovor. Možná už se vám stalo, že zdánlivě nesouvisející. "
+        desc: "Aby došlo k odhalení příčiny co nejrychleji, a terapie se tak stala opravdu cílenou a efektivní, není nic důležitějšího než aktivní naslouchání a důkladný rozhovor. Nezřídkakdy se stává, že zdánlivě nesouvisející skutečnosti bývají klíčovými sovislostmi. "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons     
       - title: Celostní přístup
-        desc: "Třetí pilíř s výše uvedeným úzce souvisí. K jedinci se vždy snažím přistupovat v komplexním, biopsychosociálním kontextu se vším, co k člověku patří. Mnohdy je třeba prozkoumat i jiné roviny a využít meziooborové spolupráce s odborníky."
+        desc: "Třetí pilíř s předchozími úzce souvisí. K jedinci se vždy snažím přistupovat v komplexním, biopsychosociálním kontextu se vším, co k němu patří. Mnohdy je k dosažení kýžených výsledků třeba prozkoumat i jiné roviny a využít meziooborové spolupráce s odborníky."
         icon: fab fa-markdown
 
 portfolio:
@@ -140,7 +140,7 @@ team:
           
 contact:
     title: "Kontakt"
-    text: Fyzio Běhalová  
+    text: Mgr. Zuzana Běhalová 
       Tkalcovská 351/3  
       Brno 602 00  
       Provozní doba 
