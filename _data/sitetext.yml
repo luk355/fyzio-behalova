@@ -30,26 +30,26 @@ portfolio:
 
 timeline:
     title: "Vzdělání a kurzy" 
-    text: "Můj profesní i osobní život výrazně ovlivnily a obohatily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě. Kombinování práce s cestováním mi umožnilo nahlédnout a inspirovat se ve světě jiných lidí, jejich kultur a praktik, včetně těch fyzioterapeutických."
+    text: "Můj profesní i osobní život výrazně obohatily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě. Kombinování práce s cestováním mi umožnilo nahlédnout a inspirovat se ve světě jiných lidí, jejich kultur a praktik, včetně těch fyzioterapeutických."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Viscerální Manipulace, Aktivně v těhotenství"
+      - title: "Kurzy Viscerální Manipulace a Aktivně v těhotenství"
         year: "2020"
-        desc: "absolvovaný kurz visceralní manipulace podle francouzského osteopata J.P.Baralla a 
-        kurz Groofy Vše o těhotenství určený pro fyzioterapeuty, lékaře a porodní asistentky"
+        desc: "Absolvovaný kurz Visceralní Manipulace 1 (břišní dutina) podle francouzského osteopata J.P.Baralla.  
+        Kurz Groofy Vše o těhotenství a porodu určený pro fyzioterapeuty, lékaře a porodní asistentky."
         image: assets/img/timeline/5.jpg
         alt:
       - title: "práce a život na Novém Zélandu"
         year: "2016-2020"
-        desc: "práce jako manažer vyhlášeného Bodyhaven Spa ve Wellingtonu, 
-        prozkoumávání odlehlých koutů Nového Zélandu, Austrálie a Jihovýchodní Asie"
+        desc: "Práce jako manažer a terapeut ve vyhlášeném spa v hlavním městě Wellington (Bodyhaven Spa). 
+        Prozkoumávání odlehlých koutů hor, moří a džunglí Nového Zélandu, Austrálie a Jihovýchodní Asie."
         image: assets/img/timeline/9.jpg
         alt:
-      - title: "Pain Management Course for Professionals A, B, & Advanced Course"
+      - title: "Pain Management Course for Professionals"
         year: "2018-2019"
-        desc: "třídílný rozsáhlý kurz suché jehly a tradičních čínských metod, Christchurch, New Zealand (Acupuncture of Ashi Points & TMM channels, Micro stimulation, Acupressure, Dry needling, Ear acupuncture)"
+        desc: "Třídílný rozsáhlý kurz suché jehly a tradičních čínských metod, Christchurch, New Zealand. (Acupuncture of Ashi Points & TMM channels, Micro stimulation, Acupressure, Dry needling, Ear acupuncture)"
         image: assets/img/timeline/6.jpg
         alt: 
       - title: "Komplexní terapie ramene a 
