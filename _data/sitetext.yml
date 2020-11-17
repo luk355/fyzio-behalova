@@ -12,7 +12,7 @@ services:
     section: services
     list:
       - title: "Odhalit příčinu"
-        desc: "Práce fyzioterapeuta nápadně připomíná tu detektivovu. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a nakonec se dobrat jejich pravé příciny. V tomto místě následně zahájit cílenou terapii. 
+        desc: "Práce fyzioterapeuta nápadně připomíná tu detektivovu. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a nakonec se dobrat jejich pravé příciny. V tomto místě následně zahájit cílenou terapii."
       - title: "Naslouchat"
         desc: "Aby byla terapie opravdu cílená a efektivní, a odhalení příčiny co nejrychlejší, není nic důležitějšího než aktivní naslouchámí a důkladný rozhovor. Možná už se vám stalo, že zdánlivě nesouvisející. "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons     
@@ -28,7 +28,7 @@ portfolio:
     
 
 timeline:
-    title: "Vzdělání, kurzy" 
+    title: "Vzdělání a kurzy" 
     text: "Můj profesní i osobní život výrazně ovlivnily a obohatily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě. Kombinování práce s cestováním mi umožnilo nahlédnout a inspirovat se ve světě jiných lidí, jejich kultur a praktik, včetně těch fyzioterapeutických."
     section: timeline
     # left is the default
