@@ -6,9 +6,9 @@ header:
 
 services:
     title: "O mně, Moje filozofie"
-    text: "Fascinuje mě plasticita dětského mozku, psychomotorický vývoj jedince a vývojová kineziologie podle Vojty. Zajímám se o viscerosomatiku a baví mě dry needling. Mimo práci miluji svobodu a četstvý vzduch s batohem na zádech v horách, tropický podvodní svět a novozélandský Sauvignon Blanc. 
+    text: "Fascinuje mě psychomotorický vývoj jedince, zajímám se o viscerosomatiku a baví mě dry needling. Mimo fyzioterapii miluji svobodu a četstvý vzduch s batohem na zádech v horách, tropický podvodní svět a novozélandský Sauvignon Blanc. 
     
-    Jsem veselá, optimistická, a pozitivní energii se snažím přenášet také na lidi ve svém okolí. Můj budoucí profesní i osobní život výrazně ovlivnily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě, a kombinovala tak práci s cestováním. Zavedla mě tam moje dobrodružná a zvídavá povaha, která mi tak umožnila nahlédnout do světa cizích kultur a jejich praktik, včetně těch fyzioterapeutických."
+    Jsem veselá, optimistická, a pozitivní energii se snažím přenášet také na lidi ve svém okolí. S klienty kladu důraz na vybudování vzájemné důvěry."
     section: services
     list:
       - title: "Odhalit příčinu"
@@ -29,7 +29,7 @@ portfolio:
 
 timeline:
     title: "Vzdělání, kurzy" 
-    text: "a významné životní milníky"
+    text: "Můj profesní i osobní život výrazně ovlivnily a obohatily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě. Kombinování práce s cestováním mi umožnilo nahlédnout a inspirovat se ve světě jiných lidí, jejich kultur a praktik, včetně těch fyzioterapeutických."
     section: timeline
     # left is the default
     #start_align: "left"
