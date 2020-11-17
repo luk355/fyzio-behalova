@@ -25,6 +25,10 @@ header.masthead {
       @include heading-font;
     }
   }
+
+  .btn {
+    margin: 10px;
+  }
 }
 @media(min-width:768px) {
   header.masthead {
