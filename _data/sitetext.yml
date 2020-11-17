@@ -5,14 +5,14 @@ header:
     buttonlink: "#portfolio"
 
 services:
-    title: "O mně, Moje filozofie"
+    title: "Moje filozofie"
     text: "Fascinuje mě psychomotorický vývoj jedince, zajímám se o viscerosomatiku a baví mě dry needling. Mimo fyzioterapii miluji svobodu a četstvý vzduch s batohem na zádech v horách, tropický podvodní svět a novozélandský Sauvignon Blanc. 
     
     Jsem veselá, optimistická, a pozitivní energii se snažím přenášet také na lidi ve svém okolí. S klienty kladu důraz na vybudování vzájemné důvěry."
     section: services
     list:
       - title: "Odhalit příčinu"
-        desc: "Práce fyzioterapeuta nápadně připomíná tu detektivovu. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a nakonec se dobrat jejich pravé příciny. V tomto místě následně zahájit cílenou terapii."
+        desc: "Práce fyzioterapeuta nápadně připomíná práci detektiva. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a nakonec se dobrat jejich pravé příciny. V tomto místě následně zahájit cílenou terapii."
       - title: "Naslouchat"
         desc: "Aby byla terapie opravdu cílená a efektivní, a odhalení příčiny co nejrychlejší, není nic důležitějšího než aktivní naslouchámí a důkladný rozhovor. Možná už se vám stalo, že zdánlivě nesouvisející. "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons     

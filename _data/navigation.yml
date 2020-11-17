@@ -1,12 +1,12 @@
 nav:
-  - title: "Moje filozofie"
+  - title: "O mně"
     section: services
 
   - title: "Služby"
     section: portfolio
     
-  - title: "Vzdělání a kurzy"
-    section: timeline
+  # - title: "Vzdělání a kurzy"
+  #   section: timeline
 
   - title: "Rezervace"
     url: https://fyzio-behalova.reservio.com/
