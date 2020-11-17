@@ -39,18 +39,18 @@ timeline:
         year: "2020"
         desc: "absolvovaný kurz visceralní manipulace podle francouzského osteopata J.P.Baralla a 
         kurz Groofy Vše o těhotenství určený pro fyzioterapeuty, lékaře a porodní asistentky"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/5.jpg
         alt:
       - title: "práce a život na Novém Zélandu"
         year: "2016-2020"
         desc: "práce jako manažer vyhlášeného Bodyhaven Spa ve Wellingtonu, 
         prozkoumávání odlehlých koutů Nového Zélandu, Austrálie a Jihovýchodní Asie"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/9.jpg
         alt:
       - title: "Pain Management Course for Professionals A, B, & Advanced Course"
         year: "2018-2019"
         desc: "třídílný rozsáhlý kurz suché jehly a tradičních čínských metod, Christchurch, New Zealand (Acupuncture of Ashi Points & TMM channels, Micro stimulation, Acupressure, Dry needling, Ear acupuncture)"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/6.jpg
         alt: 
       - title: "Komplexní terapie ramene a 
       Komplexní terapie krční páteře, 
@@ -73,7 +73,7 @@ timeline:
         year: "2010-2015"
         desc: "Karlova Univerzita v Praze, 2. lékařská fakulta, udělen titul Mgr., 
         Masarykova univerzita Brno, Fakulta sportovních studií, udělen titul Bc."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/7.jpg
         alt: 
         # you can enforce the aligment
         align: left
