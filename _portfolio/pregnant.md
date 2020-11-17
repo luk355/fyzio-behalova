@@ -1,5 +1,5 @@
 ---
-title: fyzioterapie pro ženy
+title: Ženám
 subtitle: Období těhotenství a po porodu je velmi specifické a vyžaduje specializovaný přístup. Ne vždy jde vše hladce a podle očekávání, a abychom si těhotenství co nejvíce užily a po porodu se cítily v co možná nejlepší fyzické i psychické pohodě, může být dobrou volbou obrátit se na odborníka. A to jak z důvodu cílené terapie, tak i konzultace.  
 image: assets/img/portfolio/services-pregnant.jpg
 alt: Shirts on a hanger
