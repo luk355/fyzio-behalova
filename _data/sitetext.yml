@@ -11,14 +11,13 @@ services:
     Jsem veselá, optimistická, a pozitivní energii se snažím přenášet také na lidi ve svém okolí. Můj budoucí profesní i osobní život výrazně ovlivnily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě, a kombinovala tak práci s cestováním. Zavedla mě tam moje dobrodružná a zvídavá povaha, která mi tak umožnila nahlédnout do světa cizích kultur a jejich praktik, včetně těch fyzioterapeutických."
     section: services
     list:
+      - title: "Odhalit příčinu"
+        desc: "Práce fyzioterapeuta nápadně připomíná tu detektivovu. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a nakonec se dobrat jejich pravé příciny. V tomto místě následně zahájit cílenou terapii. 
       - title: "Naslouchat"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Lidský přístup"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: člověk jko celek
-        desc: "Your description here, full **Markdown** support"
+        desc: "Aby byla terapie opravdu cílená a efektivní, a odhalení příčiny co nejrychlejší, není nic důležitějšího než aktivní naslouchámí a důkladný rozhovor. Možná už se vám stalo, že zdánlivě nesouvisející. "
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons     
+      - title: Celostní přístup
+        desc: "Třetí pilíř s výše uvedeným úzce souvisí. K jedinci se vždy snažím přistupovat v komplexním, biopsychosociálním kontextu se vším, co k člověku patří. Mnohdy je třeba prozkoumat i jiné roviny a využít meziooborové spolupráce s odborníky."
         icon: fab fa-markdown
 
 portfolio:
