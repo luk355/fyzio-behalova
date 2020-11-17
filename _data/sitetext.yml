@@ -22,7 +22,7 @@ services:
 
 portfolio:
     title: "Služby"
-    text: "Ve své praxi kombinuji důkladné vyšetření "
+    text: ""
     section: portfolio
     closebutton: "Close Project"
     
