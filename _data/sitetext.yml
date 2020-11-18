@@ -23,7 +23,7 @@ phylosophy:
 
 portfolio:
     title: "Služby"
-    text: ""
+    text: "Fyzioterapie je metodou volby nejen pokud máte akutní či dlouhotrvající bolesti, ale její velká síla tkví také v prevenci. Terapii u mě může absolvovat každý bez rozdílu věku, národnosti či pohlaví. Snažím se o komplexní a inovativní přístup, kdy uplatňuji své zkušenosti ze zahraničí a neutuchající motivaci k celoživotnímu vzdělávání. Terapii šiji každému na míru a následuje vždy po důkladné diagnostice a kineziologickém rozboru. Hojně využívám metody Dynamické Neuromuskulární Stabilizace podle profesora Pavla Koláře, viscerální manipulace a dry needling."
     section: portfolio
     closebutton: "Close Project"
     
@@ -66,7 +66,7 @@ timeline:
         alt:  
       - title: "Fyzio-fitness instruktor, Fitness Institut Tonus, Praha"
         year: "2014"
-        desc: ""
+        desc: "Pod vedením PaedDr. Petra Tlapáka, CSc."
         image: assets/img/timeline/10.jpg
         alt: 
       - title: "Magisterské a Bakalářské studium fyzioterapie"
@@ -77,7 +77,7 @@ timeline:
         alt: 
         # you can enforce the aligment
         align: left
-    end: "vášeň k pohybu a lidskému tělu"
+    end: "vášeň k pohybu a lidskému tělu, sportovní dětství"
 
 about:
     title: "About Us"

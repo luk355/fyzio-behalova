@@ -1,13 +1,13 @@
 ---
 #what displays when the item is clicked:
-title: Title
+title: Fyzioterapie pro všechny
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/services-adults.jpg
 alt: image alt text
 
 caption: #what displays in the portfolio grid:
-  title: Poruchy pohybového aparátu u dospělých
-  subtitle: akutní úrazy, stavy po operacích, chronické bolesti
+  title: Poruchy pohybového aparátu dospělých
+  subtitle: Prevence a terapie poruch pohybového aparátu a veškerých obtíží. Stavy po akutních úrazech, operacích, léčba chronické bolesti.
   thumbnail: assets/img/portfolio/services-adults-thumbnail.jpg
 
 ---
