@@ -42,6 +42,9 @@
 	  {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
     {%- endif -%}
+    {%- if site.data.sitetext.header.longtext -%}
+        <div class="intro-longtext text-uppercase">{{ site.data.sitetext.header.longtext | markdownify }}</div>
+    {%- endif -%}
         <a href="http://fyzio-behalova.reservio.com" class="btn btn-primary btn-xl text-uppercase booknow" id="book-header" target="_blank">Objednat nyní</a>
 	  {%- if site.data.sitetext.header.button -%}
         <a class="btn btn-light btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>

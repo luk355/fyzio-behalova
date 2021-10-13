@@ -49,6 +49,13 @@ header.masthead {
         margin-bottom: 50px;
         @include heading-font;
       }
+      .intro-longtext {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
+      }
     }
   }
 }
