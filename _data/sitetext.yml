@@ -1,20 +1,22 @@
 header:
-    title: fyzioterapie a léčebná rehabilitace v centru Brna
-    # text: termíny volné ihned, nově otevřeno!
-    longtext: Děkuji, že jste navštívili mé stránky! V součastnosti intenzivně pracuji na svých dovednostech nejen jako fyzioterapeut, ale hlavně jako máma. Do odvolání tedy nenabízím volné termíny. Děkuji za pochopení a těším se brzy na viděnou.
+    title: léčebně rehabilitační péče v kraji Vysočina a Jihomoravském kraji
+    # text: Termíny volné po domluvě. Možnost rezervovat online, ale pro potvrzení a upřesnění vás budu kontaktovat.
+    longtext: V součastnosti intenzivně pracuji na svých dovednostech nejen jako fyzioterapeut, ale hlavně jako máma. Pracovní doba je tedy omezená a flexibilní při rodičovské dovolené. 
+    Děkuji za pochopení a těším se na viděnou.
     bookinglink: http://fyzio-behalova.reservio.com
     button: S čím vám pomůžu?
     buttonlink: "#portfolio"
 
 phylosophy:
-    title: "Moje filozofie"
-    text: "Fascinuje mě psychomotorický vývoj jedince, zajímám se o viscerosomatiku a baví mě dry needling. Mimo fyzioterapii miluji svobodu a četstvý vzduch s batohem na zádech v horách, tropický podvodní svět a novozélandský Sauvignon Blanc. 
+    text: "Fascinuje mě psychomotorický vývoj jedince, zajímám se o viscerosomatiku a baví mě dry needling. Mimo fyzioterapii miluji svobodu a čerstvý vzduch s batohem na zádech v horách, tropický podvodní svět a novozélandský Sauvignon Blanc. 
     
-    Jsem veselá, optimistická, a pozitivní energii se snažím přenášet také na lidi ve svém okolí. S klienty kladu důraz na vybudování vzájemné důvěry."
+    Jsem veselá, optimistická, a pozitivní energii se snažím přenášet také na lidi ve svém okolí a své ordinaci. S klienty kladu důraz na vybudování vzájemné důvěry."
+    title: "Moje filozofie"
+   
     section: phylosophy
     list:
       - title: "Odhalit příčinu"
-        desc: "Práce fyzioterapeuta nápadně připomíná práci detektiva. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a dobrat se jejich pravé příciny. V tomto místě následně zahájíme cílenou terapii."
+        desc: "Práce fyzioterapeuta nápadně připomíná práci detektiva. Pokud vám chceme opravdu pomoci, je nezbytné dívat se za hranice místa bolesti. Postupně odkrývat složitý systém mnohdy dlouho a plížívě se manifestujících obtíží a dobrat se jejich pravé příciny. V tomto místě následně zahájit cílenou a celostní terapii."
         icon: fas fa-search
       - title: "Naslouchat"
         desc: "Aby došlo k odhalení příčiny co nejrychleji, a terapie se tak stala opravdu cílenou a efektivní, není nic důležitějšího než aktivní naslouchání a důkladný rozhovor. Nezřídkakdy se stává, že zdánlivě nesouvisející skutečnosti bývají klíčovými sovislostmi. "
@@ -32,7 +34,7 @@ portfolio:
 
 timeline:
     title: "Vzdělání a kurzy" 
-    text: "Můj profesní i osobní život výrazně obohatily poslední 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě. Kombinování práce s cestováním mi umožnilo nahlédnout do životů lidí z jiných kultur a jejich praktik, včetně těch fyzioterapeutických, a nalézt v nich inspiraci."
+    text: "Můj profesní i osobní život výrazně obohatily 4 roky života, které jsem strávila na Novém Zélandu a jinde ve světě. Kombinování práce s cestováním mi umožnilo nahlédnout do životů lidí z jiných kultur a jejich praktik, včetně těch fyzioterapeutických, a nalézt v nich inspiraci. Další obohacující a inspirující zkušenost je pro mě mateřství, a to zejména v oblastech práce se ženami těhotnými a po porodu, a kojenci."
     section: timeline
     # left is the default
     #start_align: "left"
