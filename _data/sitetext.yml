@@ -1,8 +1,7 @@
 header:
     title: léčebně rehabilitační péče v kraji Vysočina a Jihomoravském kraji
     # text: Termíny volné po domluvě. Možnost rezervovat online, ale pro potvrzení a upřesnění vás budu kontaktovat.
-    longtext: V součastnosti intenzivně pracuji na svých dovednostech nejen jako fyzioterapeut, ale hlavně jako máma. Pracovní doba je tedy omezená a flexibilní při rodičovské dovolené. 
-    Děkuji za pochopení a těším se na viděnou.
+    longtext: V součastnosti intenzivně pracuji na svých dovednostech nejen jako fyzioterapeut, ale hlavně jako máma. Pracovní doba je tedy omezená a flexibilní při rodičovské dovolené. Děkuji za pochopení a těším se na viděnou.
     bookinglink: http://fyzio-behalova.reservio.com
     button: S čím vám pomůžu?
     buttonlink: "#portfolio"
@@ -146,11 +145,12 @@ team:
 contact:
     title: "Kontakt"
     text: Mgr. Zuzana Běhalová 
-      Tkalcovská 351/3  
-      Brno 602 00  
+      Pod Babincem 667  
+      Velká Bíteš 595 01  
       Provozní doba 
-      St 9-17  
-      Pá 13-17
+      Ut 16-19
+      St 16-19  
+      
     section: contact
     
 footer:
