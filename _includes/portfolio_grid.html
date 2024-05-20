@@ -28,11 +28,12 @@
     </div>
   </div>
 
-
+  {% if booking.enabled == true -%}
   <div class="row">
     <div class="col-lg-12 text-center">
       <a href="http://fyzio-behalova.reservio.com" class="btn btn-primary btn-xl text-uppercase booknow" id="book-portfolio" target="_blank">Objednat termín</a>
     </div>
   </div>
+  {%- endif -%}
 </section>
 {% include modals.html %}

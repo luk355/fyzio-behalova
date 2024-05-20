@@ -30,6 +30,10 @@ analytics:
 collections:
   portfolio:
 
+booking: 
+  enabled: false
+  url: https://fyzio-behalova.reservio.com/
+
 markdown: kramdown
 
 plugins:

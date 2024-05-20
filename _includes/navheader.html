@@ -45,8 +45,8 @@
     {%- if site.data.sitetext.header.longtext -%}
         <div class="intro-longtext text-uppercase">{{ site.data.sitetext.header.longtext | markdownify }}</div>
     {%- endif -%}
-    {%- if site.data.sitetext.header.bookinglink -%}
-        <a class="btn btn-primary btn-xl text-uppercase booknow" href="{{ site.data.sitetext.header.bookinglink }}" id="book-header" target="_blank">Objednat nyní</a>
+    {% if booking.enabled == true -%}
+        <a class="btn btn-primary btn-xl text-uppercase booknow" href="{{ booking.url }}" id="book-header" target="_blank">Objednat nyní</a>
     {%- endif -%}
 	  {%- if site.data.sitetext.header.button -%}
         <a class="btn btn-light btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
